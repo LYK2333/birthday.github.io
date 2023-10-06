@@ -1,3 +1,3 @@
-# teacher.github.io
+# birthday.github.io
   
-for teachers
+for birthdays
